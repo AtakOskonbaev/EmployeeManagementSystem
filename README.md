@@ -12,4 +12,11 @@
 - **Responsive UI**: Built using JavaFX, providing a smooth and intuitive user experience.
 
 ## All 3 methods of adding an employees:
-![](https://github.com/user-attachments/assets/32303701-9c34-4946-a620-ba9f458196d1)
+For full-time employee:
+
+![image](https://github.com/user-attachments/assets/b1938bad-786d-435d-9905-46a8fbff6d1c)
+
+
+For part-time and contractor:
+
+![image](https://github.com/user-attachments/assets/d265b8a5-9815-4b77-97cf-ba61ff1caba9)
