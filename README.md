@@ -1,4 +1,4 @@
-# EmployerManFX
+# Employee Management System
 
 **EmployerManFX** is a desktop application built with **JavaFX**, designed to help businesses manage employee records. It allows you to easily track full-time employees, contractors, and their associated salary details. The app features a clean, modern UI and provides an efficient way to handle employee data, including salary calculations for different employment types.
 
